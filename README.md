@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Garrett</h1>
+<h1 align="center">Garrett Flowers</h1>
 <h3 align="center">Systems Engineer at Auburn University</h3>
 
 - 🔭 I’m currently working on a large web app called [myHOA](https://tuscany-myhoa.com)
