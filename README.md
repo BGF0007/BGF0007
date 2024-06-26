@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on a large web app called [myHOA](https://tuscany-myhoa.com)
 
-- 📝 I sometimes write short articles on [garrett-flowers.com](https://garrett-flowers.com)
-
 - 💬 Ask me about **drums, web-dev, or anything space related**
 
 - 📫 How to reach me **bgf0007@auburn.edu**
