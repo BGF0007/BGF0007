@@ -1,10 +1,6 @@
 <h1 align="center">Garrett Flowers</h1>
 <h3 align="center">Systems Engineer at Auburn University</h3>
 
-- 🔭 I’m currently working on a large web app called [myHOA](https://tuscany-myhoa.com)
-
-- 💬 Ask me about **drums, web-dev, or anything space related**
-
 - 📫 How to reach me **bgf0007@auburn.edu**
 
 <h3 align="left">Connect with me:</h3>
